@@ -9,3 +9,7 @@
 .nav-link {
     margin-right: 15px;
 }
+
+button {
+    border: none;
+}
