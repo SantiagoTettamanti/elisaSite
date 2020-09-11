@@ -1,0 +1,11 @@
+#logo {
+    max-width: 80px;
+}
+
+.vLine {
+    border-left: 2px solid rgb(180, 180, 170);
+}
+
+.nav-link {
+    margin-right: 15px;
+}
