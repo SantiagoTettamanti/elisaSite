@@ -1,0 +1,51 @@
+.container {
+    padding-left: 130px;
+    padding-right: 130px;
+}
+
+#banner {
+    background-color: #F2EDED;
+    margin-bottom: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#contact-info {
+    background-color: #F2EDED;
+    padding: 26px 26px 10px 26px;
+    font-size: 12.7px;
+}
+
+.contact-title {
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 1px;
+}
+
+#form {
+    margin-top: 10px;
+}
+
+#nombre {
+    margin-right: 10px;
+}
+
+.input-group {
+    margin-bottom: 10px;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+#email {
+    margin-bottom: 10px;
+}
+
+input, textarea {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    font-size: 12px;
+}
