@@ -1,0 +1,23 @@
+#footer {
+    width: 100%;
+    background-color: #87edd9;
+    height: 3rem;
+    text-align: center;
+    padding-top: 0.75rem;
+    position: fixed;
+    bottom: 0;
+    color: #4c4c4d
+}
+
+.fa-instagram {
+    float: left;
+    margin-left: 1rem;
+    font-size: 1.7rem;
+    margin-top: -2px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+

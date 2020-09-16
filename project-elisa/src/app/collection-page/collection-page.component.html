@@ -1,1 +1,25 @@
-<p>collection-page works!</p>
+<div id="banner" class="container">
+    <div class="row">
+        <div class="col-6">
+            <img src="../../assets/Coleccion/banner.jpeg" alt="Textile Banner">
+        </div>
+        <div class="col-6">
+            <img src="../../assets/Coleccion/banner.jpeg" alt="Textile Banner">
+        </div>
+    </div>
+</div>
+
+<div id="title" >
+    <p> colección </p>
+    <p> aminah </p>
+    <p> primavera <span> | </span> verano 2020 </p>
+</div>
+
+<div id="photos" class="container">
+    <div class="row">
+        <div *ngFor="let img of images" class="col-3">
+            <img src="http://via.placeholder.com/360x600" alt="">
+        </div>
+    </div>
+</div>
+    

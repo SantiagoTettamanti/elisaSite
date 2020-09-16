@@ -1,0 +1,33 @@
+#banner {
+    height: 158px;
+    overflow: hidden;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    margin-top: 1rem;
+}
+
+img {
+    width: 100%;
+}
+
+.col-6 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#title {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 100;
+}
+
+#photos {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+img {
+    margin-bottom: 2rem;
+}
