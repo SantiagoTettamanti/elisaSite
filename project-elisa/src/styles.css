@@ -1,5 +1,16 @@
 body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
+    padding-top: var(--navbar-height);
 }
 
+
+
+
+
+
+
+/* CSS Variables */
+:root {
+    --navbar-height: 65px;
+}
