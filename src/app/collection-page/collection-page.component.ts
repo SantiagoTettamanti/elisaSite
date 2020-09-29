@@ -13,8 +13,5 @@ export class CollectionPageComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    let a = "a";
-    const b = "b"
   }
-
 }

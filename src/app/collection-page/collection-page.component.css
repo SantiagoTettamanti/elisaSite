@@ -1,13 +1,20 @@
-#banner {
+/* #banner {
     height: 158px;
     overflow: hidden;
     padding-left: 5rem;
     padding-right: 5rem;
     margin-top: 1rem;
+} */
+
+.jumbotron {
+    background-image: url("../../assets/Coleccion/4 final.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 img {
     width: 100%;
+    margin-bottom: 2rem;
 }
 
 .col-6 {
@@ -28,6 +35,3 @@ img {
     padding-right: 4rem;
 }
 
-img {
-    margin-bottom: 2rem;
-}
