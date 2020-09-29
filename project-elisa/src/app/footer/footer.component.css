@@ -4,7 +4,9 @@
     height: 3rem;
     text-align: center;
     padding-top: 0.75rem;
-    color: #4c4c4d
+    color: #4c4c4d;
+    position: absolute;
+    bottom: 0;
 }
 
 .fa-instagram {
