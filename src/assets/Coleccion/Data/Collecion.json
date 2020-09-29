@@ -4,11 +4,63 @@
         "imgLink": "../../assets/Coleccion/azul_4_vertical.jpg"
     },
     {
-        "id": "redSock",
+        "id": "azul-5",
         "imgLink": "../../assets/Coleccion/azul_5.jpg"
     },
     {
-        "id": "redSock",
+        "id": "azul-1",
         "imgLink": "../../assets/Coleccion/azul_1.jpg"
+    },
+    {
+        "id": "blanco-azul-1",
+        "imgLink": "../../assets/Coleccion/blanco_azul_1.jpg"
+    },
+    {
+        "id": "blanco-azul-2",
+        "imgLink": "../../assets/Coleccion/blanco_azul_2.jpg"
+    },
+    {
+        "id": "blanco-azul-3",
+        "imgLink": "../../assets/Coleccion/blanco_azul_3.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Coleccion/blanco_azul_4.jpg"
+    },
+    {
+        "id": "flores_1",
+        "imgLink": "../../assets/Coleccion/flores_1.jpg"
+    },
+    {
+        "id": "flores_2",
+        "imgLink": "../../assets/Coleccion/flores_2.jpg"
+    },
+    {
+        "id": "flores_3",
+        "imgLink": "../../assets/Coleccion/flores_3.jpg"
+    },
+    {
+        "id": "lila_1",
+        "imgLink": "../../assets/Coleccion/lila_1.jpg"
+    },
+    {
+        "id": "lila_2",
+        "imgLink": "../../assets/Coleccion/lila_2.jpg"
+    },
+    {
+        "id": "lila_3",
+        "imgLink": "../../assets/Coleccion/lila_3.jpg"
+    },
+    {
+        "id": "lila_4",
+        "imgLink": "../../assets/Coleccion/lila_4.jpg"
+    },
+    {
+        "id": "lila_5",
+        "imgLink": "../../assets/Coleccion/lila_5.jpg"
+    },
+    {
+        "id": "lila_6",
+        "imgLink": "../../assets/Coleccion/lila_6.jpg"
     }
 ]
