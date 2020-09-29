@@ -9,6 +9,10 @@ html{
     position: relative;
 }
 
+main{
+    padding-bottom: 60px;
+}
+
 /* CSS Variables */
 :root {
     --navbar-height: 65px;
