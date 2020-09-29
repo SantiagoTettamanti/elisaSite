@@ -1,0 +1,19 @@
+
+#banner {
+    background-color: #F2EDED;
+    margin-bottom: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#photos {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+img {
+    width: 100%;
+    margin-bottom: 2rem;
+}
