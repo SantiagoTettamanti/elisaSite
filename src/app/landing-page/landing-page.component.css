@@ -1,8 +1,15 @@
 img {
     max-width: 100%;
+    width : 100%;
+    margin-top:60px;
+    height: 100%;
+
 }
 #landing-page {
     margin-top: -65px;
     margin-bottom: -60px;
+    overflow: hidden;
+    height: 100vh;
+    padding-bottom: 100px;
 }
 
