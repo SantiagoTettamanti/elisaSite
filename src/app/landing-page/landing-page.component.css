@@ -1,8 +1,8 @@
 img {
     max-width: 100%;
     width : 100%;
-    margin-top:60px;
-    height: 100%;
+    margin-top: 60px;
+    min-height: 100%;
 
 }
 #landing-page {
@@ -13,3 +13,6 @@ img {
     padding-bottom: 100px;
 }
 
+#landing-picture{
+    height: 100%;
+}
