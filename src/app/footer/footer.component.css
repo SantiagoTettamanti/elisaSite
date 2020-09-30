@@ -1,6 +1,7 @@
 #footer {
     width: 100%;
-    background-color: #87edd9;
+    /* background-color: #87edd9; */
+    background-color: lightgray;
     height: 3rem;
     text-align: center;
     padding-top: 0.75rem;
