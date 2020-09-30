@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import tumadre from '../../assets/Coleccion/Data/Collecion.json';
+import collecion from '../../assets/Data/Collecion.json';
 
 @Component({
   selector: 'app-collection-page',
@@ -8,7 +8,7 @@ import tumadre from '../../assets/Coleccion/Data/Collecion.json';
 })
 export class CollectionPageComponent implements OnInit {
 
-  public collecion = tumadre;
+  public collecion = collecion;
 
   constructor() {}
    
