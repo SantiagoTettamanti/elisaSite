@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+import products from '../../assets/Data/Product.json';
 @Component({
   selector: 'app-products-page',
   templateUrl: './products-page.component.html',
@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProductsPageComponent implements OnInit {
 
-  public images = [1,2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+  public images = products;
   constructor() { }
   
 
