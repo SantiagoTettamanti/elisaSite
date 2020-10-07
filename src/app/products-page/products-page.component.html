@@ -2,12 +2,14 @@
 
 <div id="photos" class="container">
     <div class="row">
-        <div *ngFor="let img of images" class="col-3">
+        <div *ngFor="let img of images" class="col-xl-3 col-md-4 col-sm-6 col-6">
 
             <figure class="figure">
-                <img src={{img.imgLink}} class="figure-img img-fluid rounded" alt="...">
+                <div class="thumbnail-custom"> 
+                    <img src={{img.imgLink}} alt="...">
+                </div>
                 <figcaption class="figure-caption">{{img.caption}}</figcaption>
-              </figure>
+            </figure>
         </div>
     </div>
 </div>
