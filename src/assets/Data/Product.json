@@ -1,5 +1,8 @@
-{
-    "id": "cool_sock_1",
-    "imgLink": "../../assets/picture.jpg",
-    "caption": "I like socks"
-}
+[
+    {
+        "id": "cool_sock_1",
+        "imgLink": "../../assets/Coleccion/azul_4_vertical.jpg",
+        "caption": "$14.99 - Ivory White"
+    }
+    
+]
