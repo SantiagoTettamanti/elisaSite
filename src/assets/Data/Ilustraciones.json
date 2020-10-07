@@ -1,6 +1,110 @@
 [
     {
-        "id": "azul-4-vertical",
+        "id": "1",
         "imgLink": "../../assets/Ilustraciones/1.jpg"
     },
+    {
+        "id": "B",
+        "imgLink": "../../assets/Ilustraciones/2.jpg"
+    },
+    {
+        "id": "6",
+        "imgLink": "../../assets/Ilustraciones/3.jpg"
+    },
+    {
+        "id": "K",
+        "imgLink": "../../assets/Ilustraciones/4.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/F.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/G.jpeg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/J.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/E.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/H.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/B.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/K.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/L.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/D.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/I.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/E.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/F.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/8.jpeg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/9.jpeg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/10.jpeg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/11.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/SK1.jpeg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/SK2.jpeg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/SK3.jpeg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/SK4.jpeg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/5.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/6.jpg"
+    },
+    {
+        "id": "azul-4-vertical",
+        "imgLink": "../../assets/Ilustraciones/7.jpg"
+    }
 ]
